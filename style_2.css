@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body{}
+h1{color:white;font-size:40px;}
+h2{
+	margin-top:38px;
+	margin-botto:38px;
+	
+}
+span{font-weight: bold;}
+p,a{display:inline;}
+p{margin-right:20px;}
+span{margin-right:10px;}
+a{margin-right:20px}
+div.d3{
+	margin-top:20px;
+}
+#jianli{
+	float:left;
+	height:880px;
+	width:20%;
+	background:blue;
+	padding:50px auto;
+	text-align:center;
+}
+#jieshao{
+	float:right;
+	width:78%;
+	margin-left:10px;
+}
+h4{margin-bottom:5px;}
